@@ -1,5 +1,7 @@
 # MultiSigAddress
-MultiSigAddress Generator and Spender
+MultiSigAddress Generator and Spender port to Svelte / Typescript
+
+The following site is currently being converted to components/Svelte, Typescript, and Cloud Functions for additional security.
 
 ## Notes/Features
 Currently the following has been tested:
